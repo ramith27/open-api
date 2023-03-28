@@ -3,7 +3,7 @@ info:
   title: Domain Checker API
   version: 1.0.0
 servers:
-  - url: http://localhost:5000
+  - url: https://open-api-production.up.railway.app/
 paths:
   /check_domain:
     get:
